@@ -12,7 +12,7 @@
 
 <hr>
 
-## Neural Network Examples for reference
+## Neural Network Examples for Reference
 #### Fully Connected NN
 ```python
 import keras
